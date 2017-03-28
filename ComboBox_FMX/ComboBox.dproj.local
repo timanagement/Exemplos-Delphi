@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/06/03 05:37:40.000.543,=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2016/12/27 01:27:30.000.980,=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2017/03/27 13:02:58.000.049,=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2017/03/27 13:05:52.000.066,C:\Users\USER\Documents\Embarcadero\Studio\Projects\Unit3.fmx=D:\XE10.2\Combobox\uPrincipal.fmx</Transaction>
+    <Transaction>2017/03/27 13:05:52.000.066,C:\Users\USER\Documents\Embarcadero\Studio\Projects\Unit3.pas=D:\XE10.2\Combobox\uPrincipal.pas</Transaction>
+    <Transaction>2017/03/27 13:06:07.000.611,C:\Users\USER\Documents\Embarcadero\Studio\Projects\Project2.dproj=D:\XE10.2\Combobox\Combo.dproj</Transaction>
+    <Transaction>2017/03/27 13:06:20.000.724,D:\XE10.2\Combobox\Combo.dproj=D:\XE10.2\Combobox\ComboBox.dproj</Transaction>
+    <Transaction>2017/03/27 18:52:03.000.777,=D:\XE10.2\Combobox\Unit1.pas</Transaction>
+    <Transaction>2017/03/27 18:52:18.000.924,D:\XE10.2\Combobox\uControle.pas=D:\XE10.2\Combobox\Unit1.pas</Transaction>
+    <Transaction>2017/03/27 18:54:03.000.745,=D:\XE10.2\Combobox\Controle\uSingleton.pas</Transaction>
+    <Transaction>2017/03/27 18:55:12.000.147,D:\XE10.2\Combobox\uControle.pas=</Transaction>
+    <Transaction>2017/03/27 18:55:24.000.106,=D:\XE10.2\Combobox\Controle\uSistemaControl.pas</Transaction>
+    <Transaction>2017/03/27 18:56:58.000.942,=D:\XE10.2\Combobox\Interface\uISistemaControl.pas</Transaction>
+    <Transaction>2017/03/27 19:17:47.000.817,D:\XE10.2\Combobox\Controle\uControleSistema.pas=D:\XE10.2\Combobox\Controle\uSistemaControl.pas</Transaction>
+    <Transaction>2017/03/27 19:19:59.000.788,D:\XE10.2\Combobox\Interface\uIControleSistema.pas=D:\XE10.2\Combobox\Interface\uISistemaControl.pas</Transaction>
+    <Transaction>2017/03/27 20:20:04.000.814,=D:\XE10.2\Combobox\Unit1.pas</Transaction>
+    <Transaction>2017/03/27 20:22:26.000.138,D:\XE10.2\Combobox\uEditHelper.pas=D:\XE10.2\Combobox\Unit1.pas</Transaction>
+    <Transaction>2017/03/27 20:22:32.000.192,=D:\XE10.2\Combobox\Unit1.pas</Transaction>
+    <Transaction>2017/03/27 20:23:05.000.872,D:\XE10.2\Combobox\Interface\uIEditHelper.pas=D:\XE10.2\Combobox\Unit1.pas</Transaction>
+    <Transaction>2017/03/28 00:01:48.000.683,D:\XE10.2\Combobox\Interface\uIEditHelper.pas=</Transaction>
+    <Transaction>2017/03/28 00:01:53.000.048,D:\XE10.2\Combobox\uEditHelper.pas=</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="Moto"/>
+	</ActiveMobileDevice>
+</BorlandProject>

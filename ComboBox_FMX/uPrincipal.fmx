@@ -1,0 +1,77 @@
+object frmPrincipal: TfrmPrincipal
+  Left = 0
+  Top = 0
+  BorderIcons = [biSystemMenu, biMinimize]
+  Caption = 'Exemplo com ComboBox'
+  ClientHeight = 302
+  ClientWidth = 315
+  Position = DesktopCenter
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  OnCreate = FormCreate
+  DesignerMasterStyle = 0
+  object ComboBox1: TComboBox
+    CanParentFocus = True
+    Cursor = crHandPoint
+    Position.X = 32.000000000000000000
+    Position.Y = 56.000000000000000000
+    Size.Width = 241.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+    StyleLookup = 'comboboxstyle'
+    TabOrder = 0
+    OnChange = ComboBox1Change
+  end
+  object lblInfo: TLabel
+    StyledSettings = [Family, Style, FontColor]
+    Margins.Left = 10.000000000000000000
+    Position.X = 8.000000000000000000
+    Position.Y = 8.000000000000000000
+    Size.Width = 281.000000000000000000
+    Size.Height = 17.000000000000000000
+    Size.PlatformDefault = False
+    TextSettings.Font.Size = 14.000000000000000000
+    Text = 'Preenchendo ComBox com constantes'
+  end
+  object edtEstado: TEdit
+    Touch.InteractiveGestures = [LongTap, DoubleTap]
+    TabOrder = 3
+    Position.X = 32.000000000000000000
+    Position.Y = 176.000000000000000000
+    Size.Width = 241.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+  end
+  object Label1: TLabel
+    StyledSettings = [Family, Style, FontColor]
+    Margins.Left = 10.000000000000000000
+    Position.X = 32.000000000000000000
+    Position.Y = 152.000000000000000000
+    Size.Width = 249.000000000000000000
+    Size.Height = 17.000000000000000000
+    Size.PlatformDefault = False
+    TextSettings.Font.Size = 14.000000000000000000
+    Text = 'UF escolhido no ComboBox'
+  end
+  object Label2: TLabel
+    StyledSettings = [Family, Style, FontColor]
+    Margins.Left = 10.000000000000000000
+    Position.X = 32.000000000000000000
+    Position.Y = 224.000000000000000000
+    Size.Width = 41.000000000000000000
+    Size.Height = 17.000000000000000000
+    Size.PlatformDefault = False
+    TextSettings.Font.Size = 14.000000000000000000
+    Text = 'Sigla'
+  end
+  object edtSigla: TEdit
+    Touch.InteractiveGestures = [LongTap, DoubleTap]
+    TabOrder = 2
+    Position.X = 32.000000000000000000
+    Position.Y = 248.000000000000000000
+    Size.Width = 41.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+  end
+end
